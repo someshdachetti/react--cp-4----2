@@ -1,0 +1,52 @@
+/* Write your CSS here */
+
+.bg {
+  background-color: #07080c;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  color: whitesmoke;
+  font-size-adjust: inherit;
+  font-size: 22px;
+}
+img {
+  height: 35vh;
+  width: 40vw;
+}
+.heading {
+  color: white;
+  font-size: 17px;
+}
+p {
+  color: #cbd5e1;
+  font-size: 12px;
+}
+
+.Accelarate {
+  color: whitesmoke;
+  background-color: #0b69ff;
+  height: 33px;
+  width: 85px;
+  margin: 10px;
+  border-style: solid;
+  border-radius: 6px;
+  cursor: point;
+  outline: none;
+}
+.break {
+  color: #94a3b8;
+  background-color: transparent;
+  height: 33px;
+  width: 85px;
+  margin: 10px;
+  border-style: solid;
+  border-radius: 6px;
+  border-color: #ffffff;
+  border-width: 1px;
+  cursor: point;
+  outline: none;
+}
